@@ -1,0 +1,8 @@
+# never commit credentials, dumps or reports
+connections.json
+*.dump
+backups/
+report.json
+.env
+__pycache__/
+*.pyc
