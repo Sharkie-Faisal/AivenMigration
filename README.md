@@ -14,13 +14,13 @@ details are always supplied by you.
 
 ```bash
 # Claude Code personal skill (macOS / Linux / Git Bash)
-git clone https://github.com/<you>/aiven-migrate-skill ~/.claude/skills/aiven-migrate
+git clone https://github.com/Sharkie-Faisal/AivenMigration ~/.claude/skills/aiven-migrate
 python -m pip install -r ~/.claude/skills/aiven-migrate/requirements.txt
 ```
 
 ```powershell
 # Windows PowerShell
-git clone https://github.com/<you>/aiven-migrate-skill "$HOME\.claude\skills\aiven-migrate"
+git clone https://github.com/Sharkie-Faisal/AivenMigration "$HOME\.claude\skills\aiven-migrate"
 python -m pip install -r "$HOME\.claude\skills\aiven-migrate\requirements.txt"
 ```
 
